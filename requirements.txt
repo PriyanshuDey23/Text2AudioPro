@@ -1,0 +1,11 @@
+SpeechRecognition
+gTTS
+google-generativeai
+python-dotenv
+streamlit
+pymupdf
+beautifulsoup4
+requests
+
+-e .
+
